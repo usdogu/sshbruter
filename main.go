@@ -69,6 +69,7 @@ func bruter(queue chan string, complete chan bool) {
 			os.Exit(0)
 		}
 	}
+	complete <- true
 }
 
 func showInfo() {
