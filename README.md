@@ -43,7 +43,7 @@ sshbruter [-p port] [-w wordlist.txt] [-t timeout]
 -c concurrent
     Concurrency/threads level (default 100).
 -v
-		Verbose mode.
+    Verbose mode.
 ```
 
 ## Credits
